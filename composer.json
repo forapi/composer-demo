@@ -9,6 +9,5 @@
             "email": "test@test.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {}
 }
