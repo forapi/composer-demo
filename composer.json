@@ -1,0 +1,14 @@
+{
+    "name": "forapi/composer-demo",
+    "description": "test",
+    "type": "php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "test",
+            "email": "test@test.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
