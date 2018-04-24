@@ -1,6 +1,6 @@
 <?php
 
-namespace Forapi\Demo;
+namespace We7\Demo;
 
 class Demo
 {

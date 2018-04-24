@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Forapi\\Demo": "."
+            "We7\\Demo": "."
         }
     }
 }
