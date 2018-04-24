@@ -9,12 +9,13 @@
             "email": "test@test.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "php": "^5.3.3 || ^7.0"
     },
     "autoload": {
         "psr-4": {
-            "Forapi\\": "src"
+            "Forapi\\Demo": "."
         }
     }
 }

@@ -1,6 +1,6 @@
 <?php
 
-namespace Forapi\Composer;
+namespace Forapi\Demo;
 
 class Demo
 {
